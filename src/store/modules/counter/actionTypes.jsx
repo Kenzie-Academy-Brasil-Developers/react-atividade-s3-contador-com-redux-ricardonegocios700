@@ -1,0 +1,2 @@
+export const COUNTER_SOMAR = "COUNTER_SOMAR";
+export const COUNTER_SUBTRAIR = "COUNTER_SUBTRAIR";
